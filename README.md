@@ -238,6 +238,3 @@ To validate clinical relevance, the model's decision-making process is visualise
 
 ---
 
-## ⭐ Acknowledgements
-
-*Add any credits to dataset creators, inspiration papers, or mentors here.*
